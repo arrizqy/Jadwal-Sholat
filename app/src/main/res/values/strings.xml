@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jadwal Sholat</string>
+    <string name="app_full_name">Jadwal Sholat &amp; Al-Qur\'an</string>
+    <string name="widget_name">Jadwal Sholat Standar (Bisa Diatur Ukurannya)</string>
+    <string name="widget_compact_name">Jadwal Sholat Ringkas (1 Baris - Waktu Terdekat)</string>
+    <string name="widget_horizontal_name">Jadwal Sholat 4x1 (Lengkap 5 Waktu)</string>
+</resources>

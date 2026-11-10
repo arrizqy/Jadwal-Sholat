@@ -1,0 +1,6 @@
+{
+  "name": "Jadwal Sholat & Al-Qur'an",
+  "description": "Aplikasi jadwal sholat otomatis dengan notifikasi azan, kompas kiblat akurat, widget layar utama, dan Al-Qur'an digital lengkap terjemahan serta tajwid.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
